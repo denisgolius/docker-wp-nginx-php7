@@ -45,3 +45,5 @@ If you have any questions, or need any help with it, leave a issue for this repo
 NOTES:
 This is heavily adapted from [HERE](https://github.com/eugeneware/docker-wordpress-nginx). Checkout his repository to see how you can use it with a local MySQL. 
 # docker-wp-nginx-php7
+
+PS: Forked from https://github.com/MansoorMajeed/docker-wp-nginx-php7
